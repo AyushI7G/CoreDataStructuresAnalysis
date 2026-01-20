@@ -31,7 +31,7 @@ This project implements fundamental data structures from scratch and analyzes th
 
 ## Project Structure
 
-* `src/`: Core data structure implementations
+* `structures/`: Core data structure implementations
 * `tests/`: Unit tests validating correctness and edge cases
 * `benchmarks/`: Performance benchmarking scripts
 * `analysis/`: Written evaluation of time–space trade-offs and failures
