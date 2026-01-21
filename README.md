@@ -50,6 +50,9 @@ pip install -r requirements.txt
 python benchmarks/benchmark_hash_table.py
 ```
 
+## Analysis
+Detailed discussions on time complexity, space trade-offs, and edge cases are available in the `analysis/` directory.
+
 ## Motivation
 
 While theoretical complexity provides upper bounds, real systems are affected by cache locality, memory allocation, and access patterns. This project explores those practical realities through empirical measurement and structured analysis.
