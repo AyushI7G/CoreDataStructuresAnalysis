@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements fundamental data structures from scratch and analyzes their performance, scalability, and correctness under varying workloads. The goal is to understand how design decisions affect efficiency, reliability, and real-world behavior beyond textbook complexity analysis.
+A systematic study of fundamental data structures implemented from first principles, combining empirical benchmarking, correctness verification, and analytical evaluation of performance, scalability, and failure modes under realistic workloads.
 
 ## Implemented Data Structures
 
