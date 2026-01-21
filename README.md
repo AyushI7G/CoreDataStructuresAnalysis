@@ -43,15 +43,15 @@ This project implements fundamental data structures from scratch and analyzes th
 * Poor hash functions drastically degrade hash table performance under skewed inputs.
 * Unbalanced binary search trees collapse to linear performance without rebalancing.
 
+## Analysis
+Detailed discussions on time complexity, space trade-offs, and edge cases are available in the `analysis/` directory.
+
 ## How to Run
 
 ```bash
 pip install -r requirements.txt
 python benchmarks/benchmark_hash_table.py
 ```
-
-## Analysis
-Detailed discussions on time complexity, space trade-offs, and edge cases are available in the `analysis/` directory.
 
 ## Motivation
 
